@@ -13,8 +13,8 @@ Ncco ncco = new Ncco(
 );
 
 
-String TO_NUMBER = "8615210888736";
-String FROM_NUMBER = "8615210888736";
+String TO_NUMBER = "";
+String FROM_NUMBER = "";
 
 CallEvent result = client
   .getVoiceClient()
